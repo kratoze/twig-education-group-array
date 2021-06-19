@@ -21,6 +21,8 @@ console.log(groupArrayElements([1, 2, 3, 4, 5, 6], 3)); // [[1,2], [3, 4], [5,6]
 
 ### Available Commands
 
+Run `npm i` to make sure packages are installed.
+
 | Command | Description    |
 | ------- | -------------- |
 | jest    | Run test suite |
