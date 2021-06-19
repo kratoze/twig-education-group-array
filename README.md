@@ -16,7 +16,7 @@ To use in your project require groupArrayElements from the package
 ```javascript
 const groupArrayElements = require('./lib/twig-education-group-array');
 
-console.log(groupArrayElements([1, 2, 3, 4, 5, 6], 3)); // [[1,2], [3, 4], [5,6]]
+console.log(groupArrayElements([1, 2, 3, 4, 5, 6], 3)); // [[1, 2], [3, 4], [5, 6]]
 ```
 
 ### Available Commands
