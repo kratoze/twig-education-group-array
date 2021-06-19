@@ -25,4 +25,4 @@ Run `npm i` to make sure packages are installed.
 
 | Command | Description    |
 | ------- | -------------- |
-| jest    | Run test suite |
+| `jest`    | Run test suite |
