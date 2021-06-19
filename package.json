@@ -1,5 +1,5 @@
 {
-  "name": "twig-group-array",
+  "name": "twig-education-group-array",
   "version": "1.0.0",
   "description": "Algorithm to group array into number of chunks. Written for Twig Education applicaton.",
   "main": "src/groupArrayElements.js",
