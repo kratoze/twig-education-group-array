@@ -26,3 +26,19 @@ Run `npm i` to make sure packages are installed.
 | Command | Description    |
 | ------- | -------------- |
 | `jest`    | Run test suite |
+
+### Documentation
+
+##### groupArrayElements(array, division) ⇒ <code>Array</code>
+Divides an array by the given divisions and returns the result as a nested
+array.
+If there is an unequal division between the array length and divisions the
+final chunk (element) will contain the remainder.
+
+**Kind**: global function
+**Returns**: <code>Array</code> - A nested array of the divided chunks
+
+| Param | Type | Description |
+| --- | --- | --- |
+| array | <code>Array</code> | The Array to be divided |
+| division | <code>Number</code> | The number of divisions |
